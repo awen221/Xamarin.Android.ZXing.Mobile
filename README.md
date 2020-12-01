@@ -1,0 +1,1 @@
+# Xamarin.Android.ZXing.Mobile
